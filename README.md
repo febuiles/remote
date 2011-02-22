@@ -1,6 +1,8 @@
 Remote
 ======
 
+**This is a work in progress.**
+
 Remote is a tool for setting up VPS. It installs a couple of bash scripts and some useful tools like
 RVM.
 
